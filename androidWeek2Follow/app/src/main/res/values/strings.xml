@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week2Project</string>
+    <string name="greeting">welcome android class</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="updatedText">This is a new text updated with java</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week2Project</string>
+    <string name="greeting">Hello ... this is our Android Class </string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="updatedText">This is a new text updated in Java Class</string>
+</resources>

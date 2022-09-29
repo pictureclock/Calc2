@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DonationApp</string>
+    <string name="welcomeToDon">Welcome to our donation app</string>
+    <string name="message">Please select the payment method</string>
+    <string name="donation_amount">Donation Amount</string>
+    <string name="donate_now">Donate Now</string>
+    <string name="correctInfo">Correct Info</string>
+</resources>
